@@ -1,0 +1,19 @@
+{
+  "name": "Uhelyan Token List",
+  "timestamp": "2025-07-01T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xd9192099DD8495ba7bCab5B4fa0408Baf55b673e",
+      "name": "Uhelyan Token",
+      "symbol": "UHYT",
+      "decimals": 18,
+      "logoURI": "https://uhelyantoken.com/logo.png"
+    }
+  ]
+}
